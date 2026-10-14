@@ -1,0 +1,62 @@
+[
+  {
+    "name": "calculator_divide_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/calculator_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/calculator_divide_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "string_slug_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/string_utils_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/string_slug_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "cart_discount_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/cart_discount_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/cart_discount_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "stats_average_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/stats_average_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/stats_average_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "temperature_conversion_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/temperature_conversion_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/temperature_conversion_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "password_length_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/password_length_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/password_length_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "unique_order_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/unique_order_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/unique_order_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "bank_withdraw_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/bank_withdraw_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/bank_withdraw_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "leap_year_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/leap_year_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/leap_year_bug.md",
+    "tests": "python run_tests.py"
+  },
+  {
+    "name": "text_truncate_bug",
+    "repo": "/mnt/data/repodoctor_v4_work/repodoctor_project/demo_repos/text_truncate_bug",
+    "issue": "/mnt/data/repodoctor_v4_work/repodoctor_project/examples/issues/text_truncate_bug.md",
+    "tests": "python run_tests.py"
+  }
+]
